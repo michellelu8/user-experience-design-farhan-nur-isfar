@@ -1,1 +1,1 @@
-![](/ux-design/images/login.png)
+![](./ux-design/images/login.png)
